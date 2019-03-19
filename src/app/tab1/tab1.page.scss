@@ -1,4 +1,11 @@
-.welcome-card ion-img {
+ion-img {
   max-height: 35vh;
   overflow: hidden;
+}
+
+ion-card{
+  background-color: #90a4ae;
+}
+ion-card-content{
+  color: aliceblue
 }
